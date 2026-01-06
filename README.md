@@ -105,6 +105,7 @@ A comprehensive Learning Management System (LMS) built with PHP, MySQL, and mode
 
 ## 📁 Project Structure
 
+```
 tmm-academy/
 ├── assets/
 │   ├── css/
